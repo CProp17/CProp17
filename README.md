@@ -21,8 +21,8 @@ If you're new to GitHub or interested in exploring data analysis, feel free to r
 
 ## Contact Me
 
-- 📧 Email: [cadas.propopuli@gmail.com]
-- 🌐 LinkedIn: (https://www.linkedin.com/in/cadasbaribin/)
+- 📧 Email: cadas.propopuli@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/cadasbaribin/
 
 ## Acknowledgements
 
